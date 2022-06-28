@@ -40,8 +40,6 @@ d) put Resource Type: Navigation
 e) Click plus phone icon and add fragments
 f) go to the code and the line "tools:layout="@layout/home_fragment" for each one
 
-    
-    }
 
 ```
 
@@ -60,7 +58,6 @@ e) Add items
         
 f) For icons click on drawwable and add vectors
     
-    }
 ```
 
 5) Add both of these to activit_layout
