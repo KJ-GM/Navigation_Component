@@ -60,7 +60,7 @@ f) For icons click on drawwable and add vectors
     
 ```
 
-5) Add both of these to activity_layout
+5) Add both of these to activity_main
 
 ```sh
 <fragment
